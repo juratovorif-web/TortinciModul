@@ -1,0 +1,6 @@
+@_4_4_HttpClient_HostAddress = http://localhost:5193
+
+GET {{_4_4_HttpClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
